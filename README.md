@@ -18,4 +18,5 @@ A secure, console-based ATM simulator built with Python. This project allows use
 2. Navigate to the project folder.
 3. Run the command:
    ```bash
-   python src/main.py
+
+   python code/main.py
